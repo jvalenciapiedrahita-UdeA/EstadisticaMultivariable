@@ -1,0 +1,43 @@
+# -------------------------
+# Ambientes virtuales
+# -------------------------
+env/
+venv/
+ENV/
+.venv/
+
+# -------------------------
+# Archivos de Python
+# -------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+*.egg
+
+# -------------------------
+# Notebooks de Jupyter
+# -------------------------
+.ipynb_checkpoints/
+
+# -------------------------
+# Archivos de configuración del sistema
+# -------------------------
+.DS_Store
+Thumbs.db
+
+# -------------------------
+# Archivos de logs y temporales
+# -------------------------
+*.log
+*.tmp
+*.swp
+*.swo
+
+# -------------------------
+# Archivos de VS Code
+# -------------------------
+.vscode/
+*.code-workspace
