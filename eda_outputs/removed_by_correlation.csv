@@ -1,0 +1,10 @@
+variable,reason
+armonicos_il2_armonico_5_il2,corr>=0.98
+armonicos_vl1_armonico_5_vl1,corr>=0.98
+armonicos_vl3_armonico_5_vl3,corr>=0.98
+corriente_l2_a,corr>=0.98
+distorsion_armonica_vl1_v_thd,corr>=0.98
+tension_l1_v,corr>=0.98
+tension_l2_l3_v,corr>=0.98
+tension_l2_v,corr>=0.98
+tension_l3_v,corr>=0.98

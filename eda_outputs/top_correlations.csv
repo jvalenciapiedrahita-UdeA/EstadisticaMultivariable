@@ -1,0 +1,31 @@
+Variable A,Variable B,Correlation
+Tensión: L2 (V),Tensión: L1 - L2 (V),0.9980054478506563
+Tensión: L2 - L3 (V),Tensión: L1 - L2 (V),0.9977073031621327
+Corriente: L2 (A),Corriente: L3 (A),0.9973768857682345
+Armónicos IL2: Armónico 5 (%IL2),Distorsión armónica: IL2 (%I THD),0.9971341486953562
+Tensión: L2 - L3 (V),Tensión: L2 (V),0.9968689834857736
+Tensión: L3 - L1 (V),Tensión: L3 (V),0.9964821534377726
+Tensión: L1 (V),Tensión: L2 - L3 (V),0.9936633618799238
+Tensión: L3 - L1 (V),Tensión: L1 (V),0.9926250181827259
+Armónicos VL2: Armónico 5 (%VL2),Armónicos VL3: Armónico 5 (%VL3),0.9922133978886324
+Tensión: L1 - L2 (V),Tensión: L1 (V),0.9921273782105832
+Tensión: L3 (V),Tensión: L1 (V),0.9904184189134239
+Armónicos VL2: Armónico 5 (%VL2),Armónicos VL1: Armónico 5 (%VL1),0.9903996421554399
+Armónicos VL1: Armónico 5 (%VL1),Armónicos VL3: Armónico 5 (%VL3),0.9879917251188135
+Tensión: L2 - L3 (V),Tensión: L3 (V),0.9872518844504689
+Tensión: L2 (V),Tensión: L1 (V),0.9863914072351382
+Distorsión armónica: VL1 (%V THD),Distorsión armónica: VL2 (%V THD),0.9847195110843442
+Tensión: L1 - L2 (V),Tensión: L3 (V),0.9824187295182302
+Tensión: L3 - L1 (V),Tensión: L2 - L3 (V),0.9816649283241596
+Distorsión armónica: VL2 (%V THD),Distorsión armónica: VL3 (%V THD),0.9785849908673421
+Distorsión armónica: VL3 (%V THD),Distorsión armónica: VL1 (%V THD),0.9772434488347992
+Tensión: L3 - L1 (V),Tensión: L1 - L2 (V),0.9762942126641662
+Tensión: L3 (V),Tensión: L2 (V),0.9738523414490702
+Armónicos VL1: Armónico 7 (%VL1),Armónicos VL2: Armónico 7 (%VL2),0.9715968338784424
+Armónicos VL1: Armónico 7 (%VL1),Armónicos VL3: Armónico 7 (%VL3),0.967764664947663
+Tensión: L2 (V),Tensión: L3 - L1 (V),0.9668700006512959
+Armónicos IL2: Armónico 5 (%IL2),Distorsión armónica: IL3 (%I THD),0.9640569550211935
+Distorsión armónica: IL3 (%I THD),Distorsión armónica: IL2 (%I THD),0.9607752613386397
+Armónicos VL2: Armónico 7 (%VL2),Armónicos VL3: Armónico 7 (%VL3),0.9522047129237583
+Factor de potencia: L2 +,Factor de potencia: L3 +,0.9490976113104926
+Armónicos IL1: Armónico 5 (%IL1),Distorsión armónica: IL2 (%I THD),0.9369519560563402
